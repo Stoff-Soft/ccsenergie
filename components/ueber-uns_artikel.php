@@ -1,6 +1,6 @@
 
 
-<div class="artikel" style="background:grey;">
+<div class="artikel container" style="background:grey;">
     <h1>ENERGIELÖSUNGEN FÜR IHR UNTERNEHMEN MIT CCS ENERGIE</h1>
 
 <p>Nicht nur Telefonanlagen, sondern auch die anderen Geräte in Ihrem Unternehmen verbrauchen täglich eine Menge Strom. In den letzten Jahrzehnten sind die Strompreise immer weiter angestiegen, ein Preisstopp ist nicht in Sicht. Für die Zukunft ist sogar anzunehmen, dass die Strompreise weiter nach oben klettern. Staat und Verbraucherverbände raten dazu, nicht nur den individuellen Stromverbrauch, sondern auch die Kosten selbst zu überprüfen. Denn Tatsache ist, dass viele Unternehmen sich scheuen oder schlichtweg im hektischen Arbeitsalltag nicht die Zeit haben, ihre bestehenden Verträge durchzugehen und gegebenenfalls zu ändern. Ähnlich wie in der Telekommunikation geht es jedoch auch auf dem Markt der Stromanbieter bunt und unübersichtlich zu.

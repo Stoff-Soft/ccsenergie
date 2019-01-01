@@ -1,5 +1,5 @@
 
-<div class="artikel" style="background:grey;">
+<div class="artikel container" style="background:grey;">
     <h1>Den Stromtarif wechseln – mit CCS Energie kein Buch mit sieben Siegeln</h1>
 
 <p>Je nach Ausgangslage können bereits die privaten Haushalte durch den Stromtarif wechsel mehrere Hundert Euro im Jahr einsparen. Dass diese Aussage nicht zu hoch gegriffen ist, bestätigen auch immer wieder neutrale Untersuchungen wie beispielsweise von der unabhängigen Stiftung Warentest. Richtig teuer kann es für Unternehmen werden, die sich für einen teuren Stromanbieter entschieden haben. Denn gerade bei der Herstellung von Produkten wird viel Energie benötigt. Eine der häufigsten Fragen, die im Zusammenhang mit dem Stromanbieter wechsel auftauchen, ist die Frage nach der Sicherheit. Soll heißen: Wenn beim Stromwechsel irgendetwas nicht funktioniert, stehe ich dann plötzlich ohne Strom da? Die klare Antwort lautet: Nein! Die Erklärung hierzu ist ganz einfach.

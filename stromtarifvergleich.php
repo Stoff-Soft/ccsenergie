@@ -10,7 +10,7 @@ include './components/wrapper_start.php';
     include './components/grid_start.php';
     ?>
 
-<div class="artikel">
+<div class="artikel container">
 <h1>Viel Geld sparen mit dem Stromtarifvergleich</h1>
 <p>Falls Sie den Stromtarif noch nie gewechselt haben, stecken Sie automatisch in der Grundversorgung des örtlichen Stromanbieters fest. Das ist die denkbar schlechteste Variante. Denn beim Tarif der Grundversorgung langen die Stromanbieter ordentlich zu. Wichtig! Der Stromanbieter wird nicht von sich aus auf Sie zukommen und auf mögliche Alternativen hinweisen. Sie müssen selbst aktiv werden. Allerdings muss der Laie hier eine gehörige Portion Zeit einplanen und dann stellt sich auch noch die Frage nach der Transparenz der Stromanbieterangebote. Aber keine Sorge, wir stehen Ihnen hilfreich zur Seite, weisen auf mögliche Fallstricke hin und filtern die besten Angebote für Sie heraus.</p>
 <h2>Durchblick im Tarifdschungel der Stromanbieter</h2>
