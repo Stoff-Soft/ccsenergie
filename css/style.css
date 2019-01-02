@@ -6,15 +6,24 @@ body {
 .navbar {
   z-index: 2;
 }
+
+.navbar-toggler,
+.collapsed {
+  border-color: #0081af !important;
+}
+
 .navbar .nav-link {
-  text-transform: uppercase;
   font-weight: 500;
-  padding-left: 1rem !important;
-  padding-right: 1rem !important;
+  /* padding-left: 1rem !important;
+  padding-right: 1rem !important; */
 }
 
 .navbar .nav-item.active {
   border-bottom: #0081af 3px solid !important;
+}
+
+.list-group {
+  padding: 0 !important;
 }
 
 .carousel-item {
@@ -247,6 +256,7 @@ p {
 }
 
 .artikel > h2 {
+  margin-top: 2rem;
   margin-bottom: 2rem !important;
 }
 
@@ -359,6 +369,10 @@ p {
   }
 }
 
+.list-group-flush {
+  margin-bottom: 2rem;
+}
+
 @media (max-width: 1200px) {
   .nav-item {
     font-size: 0.85rem !important;
@@ -367,6 +381,6 @@ p {
 
 @media (max-width: 800px) {
   .artikel2 .list-group-item {
-    width: initial !important;
+    width: 80% !important;
   }
 }

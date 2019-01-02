@@ -1,6 +1,6 @@
 
 
-<div class="artikel container" style="background:grey;">
+<div class="artikel container">
     <h1>ENERGIELÖSUNGEN FÜR IHR UNTERNEHMEN MIT CCS ENERGIE</h1>
 
 <p>Nicht nur Telefonanlagen, sondern auch die anderen Geräte in Ihrem Unternehmen verbrauchen täglich eine Menge Strom. In den letzten Jahrzehnten sind die Strompreise immer weiter angestiegen, ein Preisstopp ist nicht in Sicht. Für die Zukunft ist sogar anzunehmen, dass die Strompreise weiter nach oben klettern. Staat und Verbraucherverbände raten dazu, nicht nur den individuellen Stromverbrauch, sondern auch die Kosten selbst zu überprüfen. Denn Tatsache ist, dass viele Unternehmen sich scheuen oder schlichtweg im hektischen Arbeitsalltag nicht die Zeit haben, ihre bestehenden Verträge durchzugehen und gegebenenfalls zu ändern. Ähnlich wie in der Telekommunikation geht es jedoch auch auf dem Markt der Stromanbieter bunt und unübersichtlich zu.
@@ -18,15 +18,15 @@
 
 
 
-Auf einen Blick:
+<h2>Auf einen Blick:</h2>
 
-<ul>
-    <li>Zuverlässige Energieversorgung</li>
-    <li>Transparente und faire Tarifoptionen</li>
-    <li>Sonderkonditionen durch Großkundenrahmenverträge</li>
-    <li>Senkung der Energiekosten um ein Drittel und mehr</li>
-    <li>Persönliche Betreuung durch unser Expertenteam</li>
-    <li>Wie Sie den Stromtarif wechseln</li>
+<ul class="list-group list-group-flush">
+    <li class="list-group-item">Zuverlässige Energieversorgung</li>
+    <li class="list-group-item">Transparente und faire Tarifoptionen</li>
+    <li class="list-group-item">Sonderkonditionen durch Großkundenrahmenverträge</li>
+    <li class="list-group-item">Senkung der Energiekosten um ein Drittel und mehr</li>
+    <li class="list-group-item">Persönliche Betreuung durch unser Expertenteam</li>
+    <li class="list-group-item">Wie Sie den Stromtarif wechseln</li>
 </ul>
 
 <p>Um Ihren Stromtarif zu optimieren, benötigt CCS Energie Ihre komplette Abschlagsrechnung. Das dient als Basis für die Preisbildung Ihres neuen Strompaketes als Geschäftskunde. Je besser wir den Verbrauch in Ihrem Unternehmen vorhersagen können, desto günstiger wird es für Sie. Unsere Strompakete sind all inklusive – wir beraten Sie, entscheiden uns gemeinsam für einen Tarif und dann leiten wir für Sie unbürokratisch und völlig kostenlos den Rest in die Wege, die notwendigen Formalitäten eingeschlossen.

@@ -33,8 +33,8 @@
             <div class="col-sm-3">
               <h6>Weiteres</h6>
               <ul class="list-unstyled">
-                <li><a href="#">Impressum</a></li>
-                <li><a href="#">Datenschutz</a></li>
+                <li><a href="./impressum.php">Impressum</a></li>
+                <li><a href="./datenschutz.php">Datenschutz</a></li>
               </ul>
             </div>
           </div>

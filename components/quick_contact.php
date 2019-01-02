@@ -8,7 +8,7 @@
           <div class="card-body">
             <h5 class="card-title">Ihr Draht zu uns</h5>
             <p class="card-text">
-              Hier könnte man noch schnell eine ganz tolle Beschreibung einfügen
+              Konaktieren Sie uns! Wir freuen uns auf Ihre Anfrage.
             </p>
           </div>
           <ul class="list-group list-group-flush">

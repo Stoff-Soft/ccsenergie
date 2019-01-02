@@ -17,13 +17,6 @@ closeBtn.addEventListener("click", function() {
   carouselIndicator.classList.remove("d-none");
 });
 
-rueckruf.addEventListener("click", function() {
-  // Display true setzen
-  bgBackground.classList.remove("d-none");
-  bgContact.classList.remove("d-none");
-  carouselIndicator.classList.add("d-none");
-});
-
 // Kontakthintergrundgröße berechnen und einfügen
 window.onload = function() {
   bgc.style.height = document.body.scrollHeight + "px";
@@ -62,9 +55,11 @@ if (pagename == "index.php") {
   index.classList.add("active");
 }
 
-rueckruf.addEventListener("click", function() {
-  // Display true setzen
-  bgBackground.classList.remove("d-none");
-  bgContact.classList.remove("d-none");
-  carouselIndicator.classList.add("d-none");
-});
+if (rueckruf) {
+  rueckruf.addEventListener("click", function() {
+    // Display true setzen
+    bgBackground.classList.remove("d-none");
+    bgContact.classList.remove("d-none");
+    carouselIndicator.classList.add("d-none");
+  });
+}

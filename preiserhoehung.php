@@ -10,7 +10,7 @@ include './components/wrapper_start.php';
     include './components/grid_start.php';
     ?>
 
-    <div class="artikel container" style="background:grey;">
+    <div class="artikel container" style="background:pink;">
         <h1>Die nächste Energiepreiserhöhung kommt bestimmt</h1>
 <p>In schöner Regelmäßigkeit flattert mit der Post zum Ende des Jahres ein Brief des örtlichen Stromversorgers ins Haus. Dort lesen Sie dann Textstellen wie
 </p>
